@@ -10,6 +10,6 @@ public class Base {
 
 public void display()
 {
-System.debug('display BaseClass');
+System.debug('display BaseClass.........');
 }
 }
